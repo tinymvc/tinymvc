@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/tinymvc/skeleton/releases"><img src="https://img.shields.io/github/v/release/tinymvc/skeleton?style=flat-square" alt="Latest Version"></a>
-<a href="https://github.com/tinymvc/skeleton/stargazers"><img src="https://img.shields.io/github/stars/tinymvc/skeleton?style=flat-square" alt="GitHub Stars"></a>
+<a href="https://github.com/tinymvc/tinycore/releases"><img src="https://img.shields.io/github/v/release/tinymvc/tinycore?style=flat-square" alt="Latest Version"></a>
+<a href="https://github.com/tinymvc/tinycore/stargazers"><img src="https://img.shields.io/github/stars/tinymvc/tinycore?style=flat-square" alt="GitHub Stars"></a>
 <a href="https://packagist.org/packages/tinymvc/tinycore"><img src="https://img.shields.io/packagist/dt/tinymvc/tinycore" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/tinymvc/tinycore"><img src="https://img.shields.io/packagist/l/tinymvc/tinycore" alt="License"></a>
 </p>
@@ -70,9 +70,9 @@ Full documentation is available at: [https://tinymvc.github.io](https://tinymvc.
 We welcome contributions! Please:
 
 1. ⭐ Star the repository
-2. 🐞 Report issues [here](https://github.com/tinymvc/issues)
-3. 🛠 Submit PRs following our [contribution guidelines](https://tinymvc.github.io/contribution)
+2. 🐞 Report issues [here](https://github.com/tinycore/issues)
+3. 🛠 Submit PRs following our [contribution guidelines](https://tinymvc.github.io/#/docs/contributing)
 
 ## License
 
-TinyMVC is open-source software licensed under the [MIT License](https://github.com/tinymvc/skeleton/blob/main/LICENSE).
+TinyMVC is open-source software licensed under the [MIT License](https://github.com/tinymvc/tinycore/blob/main/LICENSE).
